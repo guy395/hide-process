@@ -4,3 +4,7 @@
 使用了PsGetProcessId来查找UniqueProcessId在EPROCESS中的偏移
 虽然可以在一些查看进程的软件中会隐藏，但是还是有大部分软件可以看到被隐藏的进程
 而且在关闭隐藏后的进程前必须还原修改的内容，否则就会蓝屏
+
+# unhide-process
+相信自己，靠别人不如靠自己
+加油！
