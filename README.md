@@ -1,1 +1,2 @@
 # hide-process
+修改了进程中的EPROCESS中的UniqueProcessId达到隐藏进程的目的
